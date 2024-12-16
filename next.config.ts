@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   assetPrefix: isProd ? '/verbovox-website' : '',
   basePath: isProd ? '/verbovox-website' : '',
-  output: "export",
+  output: 'export'
 };
 
 export default nextConfig;

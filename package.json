@@ -1,7 +1,7 @@
 {
   "name": "verbovox",
   "version": "0.1.0",
-  "homepage": "https://verbavox.github.io/verbovox-website/",
+  "homepage": "https://verbavox.github.io/verbovox-website",
   "private": true,
   "scripts": {
     "dev": "next dev",
