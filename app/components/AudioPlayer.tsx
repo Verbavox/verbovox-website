@@ -1,8 +1,8 @@
 import { Play, Pause, RotateCcw } from 'lucide-react'
 import { useState } from 'react'
-import { Button } from '@/components/ui/button'
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Slider } from "@/components/ui/slider"
+import { Button } from '@/app/components/ui/button'
+import { Card, CardContent, CardHeader, CardTitle } from "@/app/components/ui/card"
+import { Slider } from "@/app/components/ui/slider"
 import { motion, AnimatePresence } from "framer-motion"
 
 export function AudioPlayer() {

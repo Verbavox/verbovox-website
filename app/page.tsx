@@ -5,7 +5,7 @@ import { Header } from './components/Header'
 import { Content } from './components/Content'
 import { AudioPlayer } from './components/AudioPlayer'
 import { TextInput } from './components/TextInput'
-import { Button } from "@/components/ui/button"
+import { Button } from "@/app/components/ui/button"
 import { Moon, Sun } from 'lucide-react'
 import { motion, AnimatePresence } from "framer-motion"
 

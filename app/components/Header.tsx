@@ -1,5 +1,5 @@
 import { Menu } from 'lucide-react'
-import { Button } from "@/components/ui/button"
+import { Button } from "@/app/components/ui/button"
 import { motion } from "framer-motion"
 import Image from 'next/image'
 import Logo from '@/public/logo.png'
